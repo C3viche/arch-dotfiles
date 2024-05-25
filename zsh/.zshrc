@@ -22,3 +22,4 @@ alias grep='grep --color=auto'
 
 # Starship
 eval "$(starship init zsh)"
+
