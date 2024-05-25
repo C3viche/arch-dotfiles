@@ -19,6 +19,8 @@ compinit
 # Aliases
 alias ls='ls --color=auto'
 alias grep='grep --color=auto'
+alias vim="nvim"
+alias vi="nvim"
 
 # Starship
 eval "$(starship init zsh)"
